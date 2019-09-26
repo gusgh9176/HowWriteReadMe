@@ -73,5 +73,8 @@ GPL-3.0
 
 ---
 ## FAQ
-- **How old are you?**
-  - 24 (2019)
+- **Q: How old are you?**
+  - A: 24 years old (2019)
+  
+- **Q: Do you know Programming?**
+  - A: No, I don't know.
