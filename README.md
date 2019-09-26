@@ -32,7 +32,7 @@ Write the markup language
 
 ---
 ## License
-
+- http://choosealicense.com
 ---
 ## Known Bugs
 
