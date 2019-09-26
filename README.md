@@ -14,7 +14,7 @@ set a markup language
 - release version
 - license
 
-![Plat Form](https://img.shields.io/badge/Platform-Android-lightgrey.svg)
+![Plat Form](https://img.shields.io/badge/Platform-markup-lightgrey)
 [![GitHub issues](https://img.shields.io/github/issues/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/issues)
 [![GitHub stars](https://img.shields.io/github/stars/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/stargazers)
 [![GitHub release](https://img.shields.io/badge/shields-release--v0.1-green)](https://github.com/gusgh9176/HowWriteReadMe)
