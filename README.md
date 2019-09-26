@@ -17,7 +17,7 @@ set a markup language
 ![Plat Form](https://img.shields.io/badge/Platform-markup-lightgrey)
 [![GitHub issues](https://img.shields.io/github/issues/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/issues)
 [![GitHub stars](https://img.shields.io/github/stars/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/stargazers)
-[![GitHub release](https://img.shields.io/badge/shields-release--v0.1-green)](https://github.com/gusgh9176/HowWriteReadMe)
+[![GitHub release](https://img.shields.io/badge/release-v0.1-green)](https://github.com/gusgh9176/HowWriteReadMe)
 ![License: CC BY 4.0](https://img.shields.io/github/license/gusgh9176/HowWriteReadMe)
 
 make by: https://shields.io/#/
