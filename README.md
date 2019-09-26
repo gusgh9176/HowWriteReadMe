@@ -27,8 +27,15 @@ Click add README.me button (How to install)
 ---
 ## Usage
 Write the markup language
-### Add License
+### Add License (Click Highlight)
 ![licImg1](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License1.JPG?raw=true)
+![licImg2](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License2.JPG?raw=true)
+![licImg3](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License3.JPG?raw=true)
+![licImg4](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License4.JPG?raw=true)
+![licImg5](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License5.JPG?raw=true)
+![licImg6](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License6.JPG?raw=true)
+![licImg7](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License7.JPG?raw=true)
+![licImg8](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License8.JPG?raw=true)
 ---
 ## Contributing
 
