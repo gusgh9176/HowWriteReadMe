@@ -19,7 +19,8 @@ set a markup language
 [![GitHub stars](https://img.shields.io/github/stars/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/stargazers)
 [![GitHub release](https://img.shields.io/badge/shields-release--v0.1-green)](https://github.com/gusgh9176/HowWriteReadMe)
 ![License: CC BY 4.0](https://img.shields.io/github/license/gusgh9176/HowWriteReadMe)
-make by: https://shields.io/#/(https://shields.io/#/"https://shields.io/#/")
+
+make by: https://shields.io/#/
 ## Installation 
 Click add README.me button (How to install)
 
