@@ -24,7 +24,7 @@ Write the markup language
   - Clone this repo to your local machine using [https://github.com/gusgh9176/HowWriteReadMe.git](https://github.com/gusgh9176/HowWriteReadMe.git "https://github.com/gusgh9176/HowWriteReadMe.git")
   
 ### Step 2
--Work Hard
+- Work Hard
 
 ### Step 3
 
