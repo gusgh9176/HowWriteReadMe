@@ -47,7 +47,6 @@ Write the markup language
 ---
 ## Contributing
 
----
 ### Step 1
 - Option 1
   - Fork this repositories
