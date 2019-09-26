@@ -28,13 +28,21 @@ Click add README.me button (How to install)
 ## Usage
 Write the markup language
 ### Add License (Click Highlight)
+#### 1. Click Insights
 ![licImg1](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License1.JPG?raw=true)
+#### 2. Click Community
 ![licImg2](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License2.JPG?raw=true)
+#### 3. Click Add
 ![licImg3](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License3.JPG?raw=true)
+#### 4. Click you want to Use License
 ![licImg4](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License4.JPG?raw=true)
+#### 5. Click Review and submit
 ![licImg5](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License5.JPG?raw=true)
+#### 6. Click Commit new file
 ![licImg6](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License6.JPG?raw=true)
+#### 7. Click Create pull request
 ![licImg7](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License7.JPG?raw=true)
+#### 8. Click Merge pull request
 ![licImg8](https://github.com/gusgh9176/HowWriteReadMe/blob/master/img/License8.JPG?raw=true)
 ---
 ## Contributing
