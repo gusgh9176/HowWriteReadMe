@@ -6,6 +6,20 @@ Example How to write README.md (Project Explanation)
 set a markup language
 
 ---
+**Badges will go here**
+
+- devDependencies
+- issues
+- stars
+- release version
+- license
+
+![Plat Form](https://img.shields.io/badge/Platform-Android-lightgrey.svg)
+[![GitHub issues](https://img.shields.io/github/issues/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/issues)
+[![GitHub stars](https://img.shields.io/github/stars/gusgh9176/HowWriteReadMe)](https://github.com/gusgh9176/HowWriteReadMe/stargazers)
+[![GitHub release](https://img.shields.io/badge/shields-release--v0.1-green)](https://github.com/gusgh9176/HowWriteReadMe)
+![License: CC BY 4.0](https://img.shields.io/github/license/gusgh9176/HowWriteReadMe)
+
 ## Installation 
 Click add README.me button (How to install)
 
